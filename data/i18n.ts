@@ -18,20 +18,23 @@ export const content = {
       prompt: 'C:\\USERS\\PAULOGX77> whoami --verbose',
       name: "PAULO_GX77",
       fullName: "// PAULO GUILHERME COSTA NASCIMENTO",
-      bio: "ADS student at IFPB (5th semester) and Microelectronics Resident at UFCG. Builds academic social networks, mobile apps, and verifies integrated circuits with Synopsys tools. Awarded at ICT Competition Huawei. Real-world experience since day one.",
+      bio: "Software developer with a strong interest in hardware.\n" +
+           "Currently, I am studying Systems Analysis and Development at IFPB and also Microelectronics with a focus on Design Verification track at UFCG." +
+           "Passionate and very curious about technology, always seeking new experiences and knowledge about Full-Stack Development, Embedded Systems, Chip Design, Artificial Intelligence, and everything that involves this fantastic universe of technology.",
       github: "[ GITHUB ]",
       linkedin: "[ LINKEDIN ]",
       email: "[ EMAIL ]",
     },
     typingPhrases: [
       "Full Stack Developer...",
-      "Microelectronics Resident @ UFCG...",
+      "Microelectronics @ UFCG...",
       "Cloud & AI Enthusiast...",
-      "ICT Competition Winner 2024...",
+      "ICT Competition Participant 2025...",
+      "ADS @ IFPB...",
     ],
     award: {
-      title: ">> 3RD PLACE — ICT COMPETITION HUAWEI",
-      sub: "TRACK: CLOUD & ARTIFICIAL INTELLIGENCE  |  IFPB × HUAWEI  |  2024",
+      title: ">> 3RD PLACE — HUAWEI ICT COMPETITION",
+      sub: "TRACK: CLOUD & ARTIFICIAL INTELLIGENCE  |  IFPB × HUAWEI  |  2025",
       tag: "VERIFIED",
     },
     education: {
@@ -40,16 +43,18 @@ export const content = {
       items: [
         {
           inst: "IFPB",
-          badge: null,
+          badge: "TECHNOLOGIST",
           degree: "Technologist Degree (B.Tech)",
           course: "Systems Analysis & Development",
-          period: "2023 — 2026 · 5TH SEMESTER (ONGOING)",
+          period: "2024 — 2027 · 5TH SEMESTER (ONGOING)",
           items: [
             "Databases I & II",
             "Web Development I, II & III",
             "Artificial Intelligence",
-            "Software Project I & II",
-            "Operating Systems",
+            "Software Project I",
+            "POO",
+            "Project Patterns",
+            "and more..."
           ],
         },
         {
@@ -57,7 +62,7 @@ export const content = {
           badge: "TECH RESIDENCY",
           degree: null,
           course: "Microelectronics Residency · CI Expert Program",
-          period: "2024 — PRESENT",
+          period: "2026 — 2027",
           items: [
             "Synopsys Purple Verification",
             "Functional IC Verification",
@@ -72,7 +77,7 @@ export const content = {
       sectionMeta: "// ACTIVITY LOG",
       items: [
         {
-          date: "2022 → 2023",
+          date: "2023 → 2024",
           badge: "WORK",
           company: "CAGEPA",
           role: "IT Assistant · Young Apprentice Program",
@@ -128,7 +133,7 @@ export const content = {
         { label: "TOOLS", chips: ["Git", "GitHub", "Linux", "MinIO", "Swagger/OpenAPI"] },
       ],
     },
-    footer: "PARAÍBA, BR · github.com/paulogx77 · 2025",
+    footer: "PARAÍBA, BR · github.com/paulogx77 · 2026",
   },
 
   pt: {
@@ -148,20 +153,23 @@ export const content = {
       prompt: 'C:\\USERS\\PAULOGX77> whoami --verbose',
       name: "PAULO_GX77",
       fullName: "// PAULO GUILHERME COSTA NASCIMENTO",
-      bio: "Estudante de ADS no IFPB (5º período) e residente em Microeletrônica na UFCG. Constrói redes sociais acadêmicas, apps mobile e verifica circuitos integrados com ferramentas Synopsys. Premiado na ICT Competition Huawei. Experiência real desde o início.",
+      bio: "Desenvolvedor de software com grande interesse em hardware." +
+           "Atualmente, estudo Análise e Desenvolvimento de Sistemas no IFPB e também Microeletrônica com foco na área de Verificação de Design na UFCG." +
+           "Sou apaixonado e muito curioso por tecnologia, sempre em busca de novas experiências e conhecimento sobre Desenvolvimento Full-Stack, Sistemas Embarcados, Projeto de Chips, Inteligência Artificial e tudo o que envolve este fantástico universo da tecnologia.",
       github: "[ GITHUB ]",
       linkedin: "[ LINKEDIN ]",
       email: "[ EMAIL ]",
     },
     typingPhrases: [
       "Desenvolvedor Full Stack...",
-      "Residente em Microeletrônica @ UFCG...",
+      "Microeletrônica @ UFCG...",
       "Entusiasta de Cloud & IA...",
-      "Vencedor ICT Competition 2024...",
+      "Participante ICT Competition 2025...",
+      "ADS @ IFPB..."
     ],
     award: {
-      title: ">> 3º LUGAR — ICT COMPETITION HUAWEI",
-      sub: "TRILHA: CLOUD & INTELIGÊNCIA ARTIFICIAL  |  IFPB × HUAWEI  |  2024",
+      title: ">> 3º LUGAR — HUAWEI ICT COMPETITION",
+      sub: "TRILHA: CLOUD & INTELIGÊNCIA ARTIFICIAL  |  IFPB × HUAWEI  |  2025",
       tag: "VERIFICADO",
     },
     education: {
@@ -170,16 +178,18 @@ export const content = {
       items: [
         {
           inst: "IFPB",
-          badge: null,
+          badge: "TECNÓLOGO",
           degree: "Tecnólogo (CST)",
           course: "Análise e Desenvolvimento de Sistemas",
-          period: "2023 — 2026 · 5º PERÍODO (CURSANDO)",
+          period: "2024 — 2027 · 5º PERÍODO (CURSANDO)",
           items: [
             "Banco de Dados I e II",
             "Desenvolvimento Web I, II e III",
             "Inteligência Artificial",
             "Projeto de Software I e II",
             "Sistemas Operacionais",
+            "Padrões de Projeto",
+            "e mais...",
           ],
         },
         {
@@ -187,7 +197,7 @@ export const content = {
           badge: "RESIDÊNCIA TECNOLÓGICA",
           degree: null,
           course: "Residência em Microeletrônica · CI Expert Program",
-          period: "2024 — ATUAL",
+          period: "2026 — 2027",
           items: [
             "Synopsys Purple Verification",
             "Verificação Funcional de CIs",
@@ -202,7 +212,7 @@ export const content = {
       sectionMeta: "// LOG DE ATIVIDADES",
       items: [
         {
-          date: "2022 → 2023",
+          date: "2023 → 2024",
           badge: "TRABALHO",
           company: "CAGEPA",
           role: "Assistente de TI · Jovem Aprendiz",
@@ -258,6 +268,6 @@ export const content = {
         { label: "FERRAMENTAS", chips: ["Git", "GitHub", "Linux", "MinIO", "Swagger/OpenAPI"] },
       ],
     },
-    footer: "PARAÍBA, BR · github.com/paulogx77 · 2025",
+    footer: "PARAÍBA, BR · github.com/paulogx77 · 2026",
   },
 };
